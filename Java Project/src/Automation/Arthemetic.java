@@ -54,6 +54,7 @@ public class Arthemetic {
 		int multiresult=obj.mul(subresult, 2);
 		int divresult=obj.div(multiresult, 3);
 		System.out.println("final result is" +divresult);
+		System.out.println("Latest code push" +divresult);
 		
 		
 	}
